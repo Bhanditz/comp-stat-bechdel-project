@@ -1,0 +1,9 @@
+name: comp-stat-project
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - pymc3
+  - jupyter
